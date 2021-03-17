@@ -3,5 +3,20 @@
   <Executable>C:\Users\looka\source\repos\GoogleMockProject\x64\Debug\GoogleTestProject.exe</Executable>
   <TestDurations>
     <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestUpdateSalary" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestConnectionError" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestGetSalary" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestConnectionErrorAction" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.BasicTest" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestUpdateSalaryTimesTest" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestGetSalaryReturnTest" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestConnectionErrorInvoke" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestConnectionErrorInvokeLambda" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestConnectionErrorInvokeMemberMethod" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.TestGetSalaryInRangeMatchers" Duration="1" />
+    <TestDuration Test="VectorTests.ElementsAreTest" Duration="1" />
+    <TestDuration Test="VectorTests.ElementsLimitTest" Duration="1" />
+    <TestDuration Test="EmployeeManager.CallbackTest" Duration="1" />
+    <TestDuration Test="TestEmployeeManager.CallbackTest" Duration="1" />
   </TestDurations>
 </GtaTestDurations>

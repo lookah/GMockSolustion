@@ -117,6 +117,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -142,6 +144,7 @@
   <ItemGroup>
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="EmployeeManager.cpp" />
+    <ClCompile Include="LibraryCode.cpp" />
     <ClCompile Include="MyEmployeeProject.cpp" />
     <ClCompile Include="IDatabaseConnection.cpp" />
   </ItemGroup>
@@ -149,6 +152,7 @@
     <ClInclude Include="Employee.h" />
     <ClInclude Include="EmployeeManager.h" />
     <ClInclude Include="IDatabaseConnection.h" />
+    <ClInclude Include="LibraryCode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

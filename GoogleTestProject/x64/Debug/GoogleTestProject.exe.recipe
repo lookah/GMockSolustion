@@ -2,9 +2,6 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\looka\source\repos\GoogleMockProject\x64\Debug\GoogleMockProject.exe</FullPath>
-    </ProjectOutput>
-    <ProjectOutput>
       <FullPath>C:\Users\looka\source\repos\GoogleMockProject\x64\Debug\GoogleTestProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

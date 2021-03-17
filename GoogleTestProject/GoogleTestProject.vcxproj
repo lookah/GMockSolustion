@@ -76,6 +76,8 @@
       <WarningLevel>Level3</WarningLevel>
       <PrecompiledHeaderOutputFile />
       <AdditionalIncludeDirectories>C:\Users\looka\source\repos\GoogleMockProject\GoogleMockProject;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <LanguageStandard_C>stdc11</LanguageStandard_C>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
